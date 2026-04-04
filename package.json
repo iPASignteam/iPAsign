@@ -17,7 +17,7 @@
     "dist-all": "./dist.sh macos linux freebsd alpine win"
   },
   "devDependencies": {
-    "pkg": "^4.4.8",
+    "pkg": "^5.8.1",
     "semistandard": "^14.2.2"
   },
   "dependencies": {
